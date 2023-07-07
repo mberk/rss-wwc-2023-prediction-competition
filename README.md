@@ -1,5 +1,7 @@
 # Welcome to the RSS Women's World Cup 2023 Prediction Competition!
 
+The organisers are grateful to [Smartodds](https://www.smartodds.co.uk/) for their continued support in sponsoring this competition and its previous editions
+
 ## Rules
 
 1. The goal of the competition is to make probabilistic predictions of the outcome of every game in the Women's World Cup 2023 tournament
@@ -9,7 +11,10 @@
 5. Code and data (or links to the data if the data sets are large) used to generate the predictions must be included in a submission so that the judging panel can reproduce the results
 6. Participants are free to enter either as individuals or as teams
 7. Entrants may update their predictions at any point before the start of the tournament by submitting a new entry but only the most recent submission will be scored
-8. The two entries with the best log-score ([see Scoring below](#scoring)) will win a prize ([see Prizes below](#prizes)) along with a third entry chosen by the judging panel based on the methodology used
+8. There are three prizes available ([see Prizes below](#prizes)):
+    1. **Overall Winner** - the entry with the best log-score ([see Scoring below](#scoring))
+    2. **Methodology Prize** - chosen by the judging panel, based on the methodology used
+    3. **Student Prize** - awarded by the judging panel (based on the log-score/methodology used) to an entry where at least one team member has e-Student Membership of the RSS
 
 ## Scoring
 
@@ -28,8 +33,7 @@ where  `I(.)` is the indicator function and e.g. `p_team1_win` is the entrant's 
 
 ## Prizes
 
-* All winners will be invited to present their work at the 2023 RSS conference with reasonable expenses paid
-* All winners will receive an appropriately tacky trophy!
+All winners will be invited to present their work at the [2023 RSS conference](https://rss.org.uk/training-events/conference-2023/) with reasonable expenses paid (courtesy of [Smartodds](https://www.smartodds.co.uk/), the sponsors of the competition)
 
 ## Making a Submission
 
