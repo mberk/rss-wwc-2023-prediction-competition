@@ -52,4 +52,28 @@ Any questions can be emailed to statisticsinsport@rss.org.uk or asked by creatin
 
 ## Suggested Resources
 
-Coming Soon...
+### Women's International Football Results
+
+* [Mart Jürisoo](https://martj42.github.io/) maintains an easy to consume [CSV file](https://raw.githubusercontent.com/martj42/womens-international-results/ae285e00fa19c7edc4b986a01d135ae6f6545fb8/results.csv) of Women's international football results
+* This consists of 5,595 matches going back to 1969
+* It's an ideal place to get started
+
+### StatsBomb Free Data
+
+* This is a very detailed data set that spans a range of competitions including some mens matches but of particular interest to competitors will be their women's World Cup 2019 and Euro 2022 data
+* Available [here](https://github.com/statsbomb/open-data)
+* Comprehensively explained along with tutorials [here](https://statsbomb.com/what-we-do/hub/free-data/)
+* Supporting software packages [StatsBombR](https://github.com/statsbomb/StatsBombR) and [StatsBombPy](https://github.com/statsbomb/statsbombpy) are available depending on your programming language of choice
+
+### Oddsportal.com
+
+* Bookmaker odds have been valuable datasets in past editions of this competition
+* At [oddsportal.com](https://www.oddsportal.com) you can find:
+    * [Odds for the first round of matches](https://www.oddsportal.com/football/world/world-cup-women/)
+    * [Odds for each team to win the tournament](https://www.oddsportal.com/football/world/world-cup-women/outrights/)
+    * [Odds for qualifying matches and from historic editions of the Women's World Cup](https://www.oddsportal.com/football/world/world-cup-women/results/)
+
+### Previous Competition Editions
+
+* The RSS Statistics in Sport Section has previously run prediction competitions for [Men's Euro 2020](https://github.com/mberk/rss-euro-2020-prediction-competition) and [Wimbledon 2022](https://github.com/jam13g/rss-Wimbledon-2022-prediction-competition)
+* To kick off the Wimbledon 2022 competition the Section hosted an online event where the winners of the Euro 2020 competition presented their methods. This is [available to view on YouTube](https://www.youtube.com/watch?v=sYk1ASDCBrc) and may provide some inspiration
