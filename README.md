@@ -44,7 +44,7 @@ All winners will be invited to present their work at the [2023 RSS conference](h
 
 ## Getting Started
 
-Coming Soon...
+To help you get started, we have added an [IPython Notebook](getting-started.ipynb) that describes fitting a model to a publicly available data set and producing some predictions in the correct format
 
 ## Questions?
 
