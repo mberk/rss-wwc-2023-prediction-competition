@@ -1,5 +1,7 @@
 # Welcome to the RSS Women's World Cup 2023 Prediction Competition!
 
+# Entries are now closed! The live leaderboard will be added shortly
+
 The organisers are grateful to [Smartodds](https://www.smartodds.co.uk/) for their continued support in sponsoring this competition and its previous editions
 
 ## Rules
