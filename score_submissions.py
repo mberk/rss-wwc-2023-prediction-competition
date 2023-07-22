@@ -7,7 +7,7 @@ import pandas as pd
 
 
 def anonymise_name(name: str) -> str:
-    return ''.join(c for c in name if c.isupper())
+    return ''.join(token[0].upper() for token in name.split(' '))
 
 
 def score_submissions(path_to_submissions_directory: str, path_to_match_results_file: str) -> pd.DataFrame:
