@@ -2,6 +2,8 @@
 
 # Entries are now closed! The live leaderboard can be viewed [here](leaderboard.csv)
 
+# The launch webinars are now available to watch on YouTube [here](https://youtu.be/39lK5E7Dn0A) and [here](https://youtu.be/OQxZuu2ovOk)
+
 The organisers are grateful to [Smartodds](https://www.smartodds.co.uk/) for their continued support in sponsoring this competition and its previous editions
 
 ## Rules
